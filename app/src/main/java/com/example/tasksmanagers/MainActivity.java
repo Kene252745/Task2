@@ -192,7 +192,7 @@ public class MainActivity extends AppCompatActivity {
                     String title =todo.getTitle();
                     System.out.println("==========Title ======"+todo.getTitle());
                     getIntent().getSerializableExtra(title);
-                    System.out.print(title);
+
 
                 }
             });
