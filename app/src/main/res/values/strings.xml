@@ -11,12 +11,12 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
 
-
-        <string-array name="planets_array">
-            <item>Phone</item>
-            <item>Meeting</item>
-            <item>To-Do</item>
-            <item>Email</item>
-        </string-array>
+    <string-array name="planets_array">
+        <item>Phone</item>
+        <item>Meeting</item>
+        <item>To-Do</item>
+        <item>Email</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
 
 </resources>

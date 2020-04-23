@@ -42,24 +42,13 @@
         android:inputType="textImeMultiLine"
         android:textSize="20sp" />
     <TextView
-        android:text="Due Date"
+        android:id="@+id/duedate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="32dp"
-        android:gravity="center_horizontal"
-        android:layout_marginTop="32dp"
-        android:textSize="20sp"/>
-
-    <EditText
-        android:id="@+id/duedate"
-        android:layout_width="323dp"
-        android:layout_height="wrap_content"
+        android:hint="Select Duedate"
+        android:layout_marginTop="50dp"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="32dp"
-        android:ems="6"
-        android:hint="dd/mm/yyyy"
-        android:inputType="text"
-        android:textSize="20sp" />
+        android:textSize="20sp"/>
 
     <TextView
         android:text="Task Type"
